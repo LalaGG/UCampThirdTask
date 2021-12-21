@@ -1,0 +1,16 @@
+{
+  "name": "entregable3",
+  "version": "1.0.0",
+  "description": "Renzo Ibanez",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Renzo Ibanez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "chart.js": "^3.6.2"
+  }
+}
